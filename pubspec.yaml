@@ -4,14 +4,14 @@ version: 0.2.0
 homepage: https://github.com/Conezi/face_camera
 
 environment:
-  sdk: '>=3.1.0 <4.0.0'
-  flutter: ">=3.13.1"
+  sdk: '>=3.7.2 <4.0.0'
+  flutter: ">=3.29.3"
 
 dependencies:
   flutter:
     sdk: flutter
-  camera: ^0.10.6
-  google_mlkit_face_detection: ^0.10.0
+  camera: ^0.11.1
+  google_mlkit_face_detection: ^0.13.1
 
 dev_dependencies:
   flutter_test:
